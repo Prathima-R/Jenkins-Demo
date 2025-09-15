@@ -20,3 +20,4 @@ sudo apt-get install -y jenkins
 sudo systemctl enable jenkins
 sudo systemctl start jenkins
 sudo systemctl status jenkins --no-pager
+home dir
